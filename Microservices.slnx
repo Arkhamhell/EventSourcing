@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Common/">
+    <Project Path="Common/Common.Core/Common.Core.csproj" />
+  </Folder>
+  <Folder Name="/Projects/">
+    <Project Path="Projects/Ticketing.Command/Ticketing.Command.csproj" />
+    <Project Path="Projects/Ticketing.Query/Ticketing.Query.csproj" />
+  </Folder>
+</Solution>

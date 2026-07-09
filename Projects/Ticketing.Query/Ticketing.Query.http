@@ -1,0 +1,6 @@
+@Ticketing.Query_HostAddress = http://localhost:5201
+
+GET {{Ticketing.Query_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
